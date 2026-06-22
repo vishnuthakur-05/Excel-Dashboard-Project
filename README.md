@@ -82,17 +82,27 @@ The dashboard helps identify:
 
 ## Dashboard Preview
 
+![Dashboard 1](images_Dasboard_1.png)
+![Dashboard 2](images_Dasboard_2.png)
+![Dashboard 3](images_Dasboard_3.png)
+![Dashboard 4](images_Dasboard_4.png)
+![Dashboard 5](images_Dasboard_5.png)
+
+---
 
 ## Project Structure
+
 ```bash
 Excel-Dashboard-Project/
 │
-├── Dashboard.xlsx
-├── Sample_Data.xlsx
+├── Dashboard Project.xlsx
+├── Sample data.xlsx
 ├── README.md
-└── images/
-    └── dashboard.png
-```
+├── images_Dasboard_1.png
+├── images_Dasboard_2.png
+├── images_Dasboard_3.png
+├── images_Dasboard_4.png
+└── images_Dasboard_5.png
 ---
 
 ## Skills Demonstrated
